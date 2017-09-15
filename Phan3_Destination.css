@@ -1,0 +1,23 @@
+#picture{
+    width: 760px;
+    float:left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#introduction{
+    width: 400px;
+    float:right;
+    margin-right: 100px;
+    margin-top: 70px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    line-height: 25px;
+}
+a:link {
+    text-decoration: none;
+}
+#hoian{
+    text-transform: uppercase;
+    color: blue;
+}
