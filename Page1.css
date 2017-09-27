@@ -1,0 +1,25 @@
+#halong{
+    height:600px;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+#halongbay{
+    font-family: 'Lato', sans-serif;;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    color:grey;
+}
+#introduction{
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: grey;
+}
+#text{
+    font-family: 'Catamaran', sans-serif;
+    font-style: italic;
+}
