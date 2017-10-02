@@ -74,6 +74,9 @@ input[type=text]:focus {
     width: 100%;
 }
 /*==Style cho destination===*/
+.col-sm-5{
+    text-align: left;
+}
 #introduction{
     width: 400px;
     height: auto;
@@ -88,9 +91,10 @@ input[type=text]:focus {
 a:link {
     text-decoration: none;
 }
-#hoian{
+#hoian {
     text-transform: uppercase;
     color: blue;
+}
 /*footer*/
 a{
     color: #959aa0;
